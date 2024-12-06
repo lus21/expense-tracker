@@ -23,10 +23,10 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingHorizontal: 24,
     paddingTop: 24,
-    backgroundColor: GlobalStyles.colors.primary700,
+    backgroundColor: GlobalStyles.colors.secondary200,
   },
   infoText: {
-    color: GlobalStyles.colors.white,
+    color: GlobalStyles.colors.primary900,
     fontSize: 16,
     textAlign: "center",
     marginTop: 32,

@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.4,
   },
   textBase: {
-    color: GlobalStyles.colors.primary100,
+    color: GlobalStyles.colors.accent100,
   },
   description: {
     fontSize: 16,
