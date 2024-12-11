@@ -96,8 +96,6 @@ const ExpenseForm = ({
         isInvalid={!inputs.description.isValid}
         textInputConfig={{
           multiline: true,
-          // autoCorrect: false,
-          autoCapitalize: "none",
           onChangeText: (description) =>
             inputChangeHandler("description", description),
           value: inputs.description.value,
